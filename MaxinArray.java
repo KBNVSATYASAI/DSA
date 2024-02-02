@@ -2,7 +2,7 @@ package Arraysbasics;
 
 import java.util.Scanner;
 
-public class MaxinArray {
+public class MaxxinArray {
 	public static void main(String[] args) {
 		
 		System.out.println("enter array lenth");
